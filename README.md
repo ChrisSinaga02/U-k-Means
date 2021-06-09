@@ -7,8 +7,7 @@
 Accepted in IEEE Access '20 
 
 **In case the repository or the publication was helpful in your work, please use the following to cite the original paper,**
-
-@article{sinaga2020unsupervised,
+<pre><code>> @article{sinaga2020unsupervised,
   title={Unsupervised K-means clustering algorithm},
   author={Sinaga, Kristina P and Yang, Miin-Shen},
   journal={IEEE Access},
@@ -17,6 +16,8 @@ Accepted in IEEE Access '20
   year={2020},
   publisher={IEEE}
 }
+</code></pre>
+
 
 
 Manuscript at: https://ieeexplore.ieee.org/abstract/document/9072123 
