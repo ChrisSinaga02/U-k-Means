@@ -6,7 +6,7 @@
 
 Accepted in IEEE Access '20 
 
-In case the repository or the publication was helpful in your work, please use the following to cite the original paper,
+## In case the repository or the publication was helpful in your work, please use the following to cite the original paper,
 
 @article{sinaga2020unsupervised,
   title={Unsupervised K-means clustering algorithm},
@@ -21,5 +21,5 @@ In case the repository or the publication was helpful in your work, please use t
 
 Manuscript at: https://ieeexplore.ieee.org/abstract/document/9072123 
 
-# Abstract:
+### Abstract:
 The k-means algorithm is generally the most known and used clustering method. There are various extensions of k-means to be proposed in the literature. Although it is an unsupervised learning to clustering in pattern recognition and machine learning, the k-means algorithm and its extensions are always influenced by initializations with a necessary number of clusters a priori. That is, the k-means algorithm is not exactly an unsupervised clustering method. In this paper, we construct an unsupervised learning schema for the k-means algorithm so that it is free of initializations without parameter selection and can also simultaneously find an optimal number of clusters. That is, we propose a novel unsupervised k-means (U-k-means) clustering algorithm with automatically finding an optimal number of clusters without giving any initialization and parameter selection. The computational complexity of the proposed U-k-means clustering algorithm is also analyzed. Comparisons between the proposed U-k-means and other existing methods are made. Experimental results and comparisons actually demonstrate these good aspects of the proposed U-k-means clustering algorithm.
