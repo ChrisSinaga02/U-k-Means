@@ -4,7 +4,7 @@
 - Kristina P. Sinaga
 - Miin-Shen Yang
 
-Accepted in IEEE Access '20 
+Published in IEEE Access '20 
 
 **In case the repository or the publication was helpful in your work, please use the following to cite the original paper,**
 <pre><code>> @article{sinaga2020unsupervised,
